@@ -10,17 +10,16 @@
 - Use loops.
 
 
-## Example Project :  User Management System :
+## Project :  Backup Management System :
 
-#### Overview : A Bash script that you can use to make your user management easier. 
+#### Overview : A Bash script that you can use to automate file backups. 
 
-#### As a system administrator I should be able to do the following :
-- Create a user.
-- Update user info
-- Delete a user.
-- Create a group.
-- Add user to group.
-- and so on...
+#### The system should be able to do the following :
+- Prompt the user to enter the directory to be backed up.
+- Prompt the user to enter the backup destination directory.
+- Check if the specified directories exist.
+- Create the backup file.
+- Print a message indicating that the backup was successful.
 
 
 #### For your project. Edit this README.md file to include your own project name, overview, user stories.
